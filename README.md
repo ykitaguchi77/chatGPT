@@ -1,3 +1,3 @@
 # chatGPT
 
-## This is an example to deal with chatGPT.
+## This is an example how to connect chatGPT with other services.
