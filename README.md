@@ -1,3 +1,3 @@
 # chatGPT
 
-## This is an example how to write a scientific article using chatGPT.
+## This is an example to deal with chatGPT.
